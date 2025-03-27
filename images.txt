@@ -10,4 +10,4 @@
 dfam/tetools:1.5
 
 # 2025.0327
-quay.io/biocontainers/edta:2.2.2--hdfd78af_1
+

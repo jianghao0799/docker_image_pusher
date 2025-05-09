@@ -12,3 +12,6 @@ dfam/tetools:1.5
 # 2025.0327
 
 quay.io/biocontainers/edta:2.2.2--hdfd78af_1
+
+# 2025.0509 add STaligner
+anhpidinh/allen_stalignergpu:latest

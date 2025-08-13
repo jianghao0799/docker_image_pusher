@@ -18,3 +18,6 @@ anhpidinh/allen_stalignergpu:latest
 
 # 2025.0515 add complease
 huangnengcsu/compleasm:v0.2.7
+
+# 2025.0813 add interproscan
+interpro/interproscan:5.73-104.0

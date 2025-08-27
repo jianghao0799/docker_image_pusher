@@ -24,3 +24,6 @@ interpro/interproscan:5.73-104.0
 
 # 2025.0826 add busco
 ezlabgva/busco:v6.0.0_cv1
+
+# 2025.0827 add flair 2.2.0
+brookslab/flair:2.2.0

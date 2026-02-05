@@ -7,26 +7,26 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # 2025.0326
-dfam/tetools:1.5
+# dfam/tetools:1.5
 
 # 2025.0327
 
-quay.io/biocontainers/edta:2.2.2--hdfd78af_1
+# quay.io/biocontainers/edta:2.2.2--hdfd78af_1
 
 # 2025.0509 add STaligner
-anhpidinh/allen_stalignergpu:latest
+# anhpidinh/allen_stalignergpu:latest
 
 # 2025.0515 add complease
-huangnengcsu/compleasm:v0.2.7
+# huangnengcsu/compleasm:v0.2.7
 
 # 2025.0813 add interproscan
-interpro/interproscan:5.73-104.0
+# interpro/interproscan:5.73-104.0
 
 # 2025.0826 add busco
-ezlabgva/busco:v6.0.0_cv1
+# ezlabgva/busco:v6.0.0_cv1
 
 # 2025.0827 add flair 2.2.0
-brookslab/flair:2.2.0
+# brookslab/flair:2.2.0
 
 # 2026.0205 add deepvariant 1.10.0-beta
 google/deepvariant:1.10.0-beta

@@ -27,3 +27,6 @@ ezlabgva/busco:v6.0.0_cv1
 
 # 2025.0827 add flair 2.2.0
 brookslab/flair:2.2.0
+
+# 2026.0205 add deepvariant 1.10.0-beta
+google/deepvariant:1.10.0-beta

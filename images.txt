@@ -30,3 +30,6 @@
 
 # 2026.0205 add deepvariant 1.10.0-beta
 google/deepvariant:1.10.0-beta
+
+# 2026.0209 add mikado 2.3.5rc3
+gemygk/mikado:v2.3.5rc3

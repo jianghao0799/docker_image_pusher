@@ -33,3 +33,5 @@ google/deepvariant:1.10.0-beta
 
 # 2026.0209 add mikado 2.3.5rc3
 gemygk/mikado:v2.3.5rc3
+ # 2026.0210 add earlGrey v7.0.1
+tobybaril/earlgrey:latest-nodfam
